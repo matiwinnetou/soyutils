@@ -1,7 +1,6 @@
 {
   "name": "soyutils",
   "main": "soyutils.js",
-  "version": "1.0.0",
   "authors": [
     "Mateusz Szczap <mateusz.szczap@gmail.com>"
   ],
