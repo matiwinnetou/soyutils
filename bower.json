@@ -1,6 +1,6 @@
 {
   "name": "soyutils",
-   version: '2014.04.22',
+  "version": "2014.04.22",
   "main": "soyutils.js",
   "authors": [
     "Mateusz Szczap <mateusz.szczap@gmail.com>"
